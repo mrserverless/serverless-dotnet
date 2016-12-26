@@ -1,0 +1,6 @@
+.serverless
+
+bin/
+obj/
+
+env.list
