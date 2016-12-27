@@ -20,7 +20,7 @@ The simply:
 This sample application's `Makefile` leverages the following containers:
 
 * [microsoft/dotnet](https://github.com/dotnet/dotnet-docker) - to build the C# code
-* [amaysim-au/aws-serverless](https://github.com/amaysim-au/docker-aws-serverless) - awesome docker serverless container written by my colleague @flemay
+* [amaysim-au/aws-serverless](https://github.com/amaysim-au/docker-aws-serverless) - awesome docker serverless container written by my colleague [@flemay](https://github.com/flemay)
 
 ## To Do
 
