@@ -1,4 +1,5 @@
 .serverless
+.idea/
 
 bin/
 obj/
